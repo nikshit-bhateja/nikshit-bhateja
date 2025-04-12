@@ -1,4 +1,4 @@
 # Nikshit Bhateja
-- 👨🏻‍💻 iOS Native & Fluter Developer
+## 👨🏻‍💻 iOS Native & Fluter Developer
 - 🌱 Learning never ends
 - 💻 Freelancer
