@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikshit-bhateja
+# Nikshit Bhateja
 - 👨🏻‍💻 iOS Native & Fluter Developer
 - 🌱 Learning never ends
 - 💻 Freelancer
